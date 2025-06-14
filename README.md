@@ -52,6 +52,7 @@
 - 📧 Email: figueiredoalessandro73@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alessandro-figueiredo-989706357)  
 - 🐙 [GitHub](https://github.com/alessandro-a11y)
+- 💼 [portifólio](https://b636199b-1a2e-453a-aa1c-266aaf0cc704.dev14.app-preview.com/)
 ---
 
 <p align="center">
