@@ -1,5 +1,4 @@
 <h1 align="center" style="color:#0ea5e9;">👨‍💻 Alessandro Figueiredo Rodrigues</h1>
---> link do meu portifolio (https://horizons.hostinger.com/b636199b-1a2e-453a-aa1c-266aaf0cc704?was_new_account_created=1&was_new_account_created=0)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=600&lines=Engenharia+de+Software;Machine+Learning+%7C+Python+%7C+C;Azure+ML+%7C+GitHub+%7C+VS+Code;Aprendizado+Cont%C3%ADnuo+%7C+Foco+e+Disciplina">
@@ -52,7 +51,7 @@
 - 📧 Email: figueiredoalessandro73@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alessandro-figueiredo-989706357)  
 - 🐙 [GitHub](https://github.com/alessandro-a11y)
-
+- 💼 [portifólio](https://b636199b-1a2e-453a-aa1c-266aaf0cc704.dev14.app-preview.com/)
 ---
 
 <p align="center">
