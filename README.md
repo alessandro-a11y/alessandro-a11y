@@ -1,66 +1,63 @@
-<h1 align="center" style="color:#0ea5e9;">👨‍💻 Alessandro Figueiredo Rodrigues</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=FFFFFF&width=1000&lines=S%C3%B3+o+tipo+de+dev+que+voc%C3%AA+gostaria+de+ter+em+sua+equipe.%F0%9F%9A%80" alt="Frase animada" />
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=600&lines=Engenharia+de+Software;Machine+Learning+%7C+Python+%7C+C;Azure+ML+%7C+GitHub+%7C+VS+Code;Aprendizado+Cont%C3%ADnuo+%7C+Foco+e+Disciplina">
-</p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+## 👨‍💻 Alessandro Figueiredo Rodrigues
+
+🎓 **Graduando** em Engenharia de Software  
+📊 Foco em Ciência de Dados, Machine Learning e desenvolvimento de soluções inteligentes  
+🧠 Entusiasta de projetos práticos com dados reais e aprendizado contínuo  
+🚀 Colaborando com Open Source e explorando o mundo da tecnologia com propósito  
+📅 24 anos – 2000  
 
 ---
 
-### 🦾 Sobre Mim:
+## 🧠 Habilidades Técnicas
 
-> 🎓 Estudante de Engenharia de Software  
-> 💡 Apaixonado por tecnologia, ciência de dados e aprendizado de máquina  
-> 🛠️ Prático: gosto de aprender na marra, errando, tentando e acertando  
-> 🚀 Cada projeto = um passo a mais no game dev life
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ciência de Dados](https://img.shields.io/badge/Ciência%20de%20Dados-3f3f3f?style=for-the-badge&logo=jupyter&logoColor=orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📈 Github Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandro-a11y&show_icons=true&theme=tokyonight&hide=prs&count_private=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandro-a11y&theme=tokyonight" width="400"/>
-</p>
-
----
-
-### 🧠 Certificações Recentes:
-
-- Microsoft DP-100 (Data Science on Azure)  
-- Ajuste de Hiperparâmetros no Azure ML  
-- Otimização de Modelos com ML  
-- Contribuições Open Source na DIO  
-- Git e GitHub  
-- Ciência de Dados - DIO  
-
-(📌 E sempre buscando mais 👊)
+</div>
 
 ---
 
-### 💼 Onde Me Encontrar:
-
-- 📧 Email: figueiredoalessandro73@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alessandro-figueiredo-989706357)  
-- 🐙 [GitHub](https://github.com/alessandro-a11y)
-- 💼 [portifólio](https://b636199b-1a2e-453a-aa1c-266aaf0cc704.dev14.app-preview.com/)
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250">
-</p>
-
-> **"Seja o tipo de dev que você gostaria de ter no time."**
+## 📊 GitHub Stats
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alessandro-a11y&show_icons=true&theme=dracula&hide=issues" />
+</div>
 
 ---
 
+## 🏅 Certificações Recentes
+
+- 📘 Microsoft: 100+ dicas práticas de Dados no Azure  
+- 📊 Análise de Regressão com Azure ML  
+- 🔧 Criação de Modelos com Machine Learning  
+- 💻 Contribuição em Projetos Open Source (DIO)  
+- 📈 Ciência de Dados – DIO  
+- 🔗 Git e GitHub  
+
+---
+
+## 🌐 Onde Me Encontrar
+
+- ✉️ Email: **alessandrodevestudante01@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-figueiredo-989706357/?trk=opento_sprofile_topcard)  
+- 🖥️ [GitHub](https://github.com/alessandro-a11y)  
+- 📱 WhatsApp: **(87) 98111-3699**  
+
+---
+
+<h3 align="center">“Aprendizado contínuo não é opção, é estratégia.” 🚀</h3>
 
