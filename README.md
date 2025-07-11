@@ -1,4 +1,16 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=FFFFFF&width=1000&lines=S%C3%B3+o+tipo+de+dev+que+voc%C3%AA+gostaria+de+ter+em+sua+equipe.%F0%9F%9A%80" alt="Frase animada" />
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=FFFFFF&width=1000&lines=S%C3%B3+o+tipo+de+dev+que+voc%C3%AA+gostaria+de+ter+em+sua+equipe.%F0%9F%9A%80" alt="Frase animada" />
+</p>
+
+## 👨‍💻 Alessandro Figueiredo Rodrigues
+
+🎓 **Graduando** em Engenharia de Software  
+📊 Foco em Ciência de Dados, Machine Learning e desenvolvimento de soluções inteligentes  
+🧠 Entusiasta de projetos práticos com dados reais e aprendizado contínuo  
+🚀 Colaborando com Open Source e explorando o mundo da tecnologia com propósito  
+📅 24 anos – 2000
+
 
 
 ---
