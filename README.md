@@ -1,28 +1,35 @@
 <h1 align="center">Fala aí! 👋 Eu sou o Alessandro Figueiredo Rodrigues</h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+em+formação;Ciência+de+Dados+é+meu+laboratório;Tecnologia+transforma+realidades&center=true&width=450&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End+Developer+em+formação;Python+é+minha+base;Construindo+APIs+e+soluções+reais&center=true&width=450&height=30">
 </p>
 
 ---
 
 🎯 **Sobre mim:**
-- 🚀 Desenvolvedor **Full Stack** em formação
+- 🚀 Desenvolvedor **Back-End** em formação
 - 💼 Estudante de **Engenharia de Software**
+- 🧪 Apaixonado por automação, APIs e projetos com Python
+
 ---
 
 💡 **Tecnologias que utilizo:**
 
-### 🚀 Desenvolvimento Web
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧰 ORM
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23CA4738.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Django ORM](https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🌐 Frontend (diferenciais)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📦 Controle de Versão
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -38,4 +45,4 @@
 
 ---
 
-🧠 *"Full Stack no código, cientista nos dados, e com fome de evolução todos os dias."*
+🧠 *"Back-End na essência, Python como ferramenta e evolução como rotina."*
