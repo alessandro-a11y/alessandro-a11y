@@ -16,14 +16,12 @@
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 ORM
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23CA4738.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Django ORM](https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🌐 Frontend (diferenciais)
