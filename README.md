@@ -1,6 +1,6 @@
 <h1 align="center">Fala aí! 👋 Eu sou o Alessandro Figueiredo Rodrigues</h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End+Developer+em+formação;C%23+%26+ASP.NET+Core;Construindo+APIs+robustas+e+escaláveis&center=true&width=520&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End+Developer+em+formação;C%23+%26+ASP.NET+Core;&center=true&width=520&height=30">
 </p>
 
 ---
