@@ -36,12 +36,4 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-**Minhas estatísticas:**
-<div align="center">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alessandro-a11y&show_icons=true&theme=radical" />
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-a11y&layout=compact&theme=radical" />
-</div>
-
----
