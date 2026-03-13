@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+<a href="https://github.com/alessandro-a11y"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -58,7 +58,7 @@ var alessandro = new Developer
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alessandro-a11y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alessandro-a11y&show_icons=true&theme=tokyonight&border_radius=10" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-a11y&layout=compact&langs_count=7&theme=tokyonight&border_radius=10" />
 </div>
 
@@ -66,8 +66,3 @@ var alessandro = new Developer
   <img src="https://streak-stats.demolab.com?user=alessandro-a11y&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alessandro-a11y&color=512BD4&style=for-the-badge&label=Visitas+ao+Perfil" />
-</div>
