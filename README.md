@@ -1,39 +1,73 @@
-<h1 align="center">Fala aí! Eu sou o Alessandro Figueiredo Rodrigues</h1>
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End+Developer+em+formação;C%23+%26+ASP.NET+Core;&center=true&width=520&height=30">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=header&text=Alessandro%20Figueiredo%20Rodrigues&fontSize=30&fontColor=ffffff&fontAlignY=45&desc=Back-End%20Developer%20·%20C%23%20·%20ASP.NET%20Core%20·%20SQL%20Server&descSize=14&descAlignY=70&animation=fadeIn" width="100%" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/alessandro-a11y"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+---
+
+## Sobre mim
+
+```csharp
+var alessandro = new Developer
+{
+    Nome        = "Alessandro Figueiredo Rodrigues",
+    Foco        = "Back-End Development",
+    Formação    = "Engenharia de Software",
+    Interesses  = new[] { "APIs REST", "Clean Architecture", "SQL Server" },
+    Background  = "Lógica · Automação · Análise de Dados",
+    Status      = "Estudando e construindo todos os dias"
+};
+```
+
+---
+
+## Stack & Tecnologias
+
+### Back-End
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### Ferramentas & Versionamento
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
- **Sobre mim:**
--  Desenvolvedor **Back-End** em formação
--  Estudante de **Engenharia de Software**
--  Background sólido em lógica, automação e análise de dados
+## GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alessandro-a11y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-a11y&layout=compact&langs_count=7&theme=tokyonight&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alessandro-a11y&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+</div>
 
 ---
 
-**Tecnologias que utilizo:**
-
-### ⚙️ Backend
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### Dferenciais  (Frontend)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### Controle de Versão
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alessandro-a11y&color=512BD4&style=for-the-badge&label=Visitas+ao+Perfil" />
+</div>
